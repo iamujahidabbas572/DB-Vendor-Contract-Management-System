@@ -64,5 +64,5 @@ This is a web-based **Vendor Contract Management System** built with **Node.js, 
    Open your browser and navigate to `http://localhost:3000`.
 
 ## 👥 Authors
-- **22I-1914**
-- **22I-1969**
+Mujahid Abbas & Talha kayani
+
